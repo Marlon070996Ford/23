@@ -1,0 +1,16 @@
+/* Mixins -------------------- */
+/* Web Fonts -------------------- */
+@import "https://fonts.googleapis.com/css?family=Courgette|Pacifico|Charm";
+@import "https://use.fontawesome.com/releases/v5.7.1/css/all.css";
+.homepage {
+  width: 100vw;
+  height: 100vh; }
+
+/* Base Styles -------------------- */
+body {
+  margin: 0;
+  padding: 0; }
+
+/* Media Queries -------------------- */
+
+/*# sourceMappingURL=main.css.map */
